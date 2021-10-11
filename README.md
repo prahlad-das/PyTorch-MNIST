@@ -1,7 +1,7 @@
 # PyTorch-MNIST
 
 <p>MNIST is a famous dataset of handwritten digits. In this dataset there are 60,000 images of digits for training and 10,000 for test. Also we have used SGD optimizer and cross-entropy function for measuring loss.</p>
-<p>We have used simplest neural network. It is a single linear layer and with that alone we got accuracy of 91.87%. Using deep layers can certainly improve the results. </p>
+<p>We have used simplest neural network. It is a single linear layer and with that alone we got accuracy of 91.84%. Using deep layers can certainly improve the results. </p>
 
 1. Import the required libraries
 ```Python
